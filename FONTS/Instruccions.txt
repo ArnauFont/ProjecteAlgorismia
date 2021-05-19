@@ -1,0 +1,4 @@
+Instruccions per compilar el programa:
+
+g++ -o ProjecteAlgorismia ProjecteAlgorismia.cpp
+./ProjecteAlgorismia 
